@@ -19,6 +19,11 @@ operations, access control, risk assessment, and incident response.
 
 ### 🧪 Hands-On Security Projects
 
+### 🔐 Personal Cybersecurity Audit
+A personal security assessment focused on identifying risks, evaluating controls,
+and recommending improvements to overall cybersecurity posture.  
+📁 Folder: `hands-on-projects/personal-cybersecurity-audit`
+
 #### 🔎 Investigating and Mitigating Security Threats through SQL Queries
 - Used SQL queries to investigate security events and identify suspicious activity
 - Analyzed data patterns to support threat detection and mitigation
